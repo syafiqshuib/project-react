@@ -7,7 +7,7 @@ This is a React project built using [React](https://reactjs.org/). It serves as 
 1. Clone the repository:
    ```sh
    git clone https://github.com/syafiqshuib/project-react.git
-   cd your-repo
+   cd project-react
    ```
 2. Install dependencies:
    ```sh
